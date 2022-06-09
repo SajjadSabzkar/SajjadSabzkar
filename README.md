@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: [Telegram](https://t.me/i_am_sajjad)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SajjadSabzkar&show_icons=true&theme=calm)
